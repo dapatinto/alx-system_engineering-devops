@@ -1,0 +1,1 @@
+Readme inside root directory
