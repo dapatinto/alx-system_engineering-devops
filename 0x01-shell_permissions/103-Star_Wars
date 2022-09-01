@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a StarWars IV episode
+telnet towel.blinkenlights.nl
